@@ -1,8 +1,8 @@
 class Nib < Formula
   desc "Terminal AI coding agent you can inspect, configure, and own"
   homepage "https://github.com/amenski/nib"
-  url "https://registry.npmjs.org/@amenski/nib/-/nib-0.7.0.tgz"
-  sha256 "ef8bccbdc2997f9e9373e0880e01d1ed5cde54c4f5c31e93a5a95b79dd3b1cbe"
+  url "https://registry.npmjs.org/@amenski/nib/-/nib-0.8.0.tgz"
+  sha256 "cfdcc5815fefdc0326d6bfc25b0b42517387b467d5208a151f14e79255b6e6ea"
   license "Apache-2.0"
 
   depends_on "node"
